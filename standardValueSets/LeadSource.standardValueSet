@@ -51,19 +51,4 @@
         <default>false</default>
         <label>Other</label>
     </standardValue>
-    <standardValue>
-        <fullName>DemoForDreamforce</fullName>
-        <default>false</default>
-        <label>DemoForDreamforce</label>
-    </standardValue>
-    <standardValue>
-        <fullName>NewFieldValue</fullName>
-        <default>false</default>
-        <label>NewFieldValue</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Dreamforce17</fullName>
-        <default>false</default>
-        <label>Dreamforce17</label>
-    </standardValue>
 </StandardValueSet>
